@@ -29,7 +29,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "Afx-Abu;Abu-MD;https://i.imgur.com/o3WP9EK.jpeg"
+      "value": "Hey-Bro;RUSH-MASTER;https://telegra.ph/file/38ae735c556eb56dd1ebb.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -49,12 +49,12 @@
     "AUDIO_DATA": {
       "description": "audio metadata",
       "required": true,
-      "value": "Abu-MD;~Jasil;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "RUSH-MASTER;~RUSH;https://telegra.ph/file/38ae735c556eb56dd1ebb.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "Jsl;Abu-MD"
+      "value": "Hey;RUSH-MASTER"
     },
     "PM_MESSAGE": {
       "description": "personal greetings for first message ",
